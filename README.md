@@ -8,16 +8,15 @@ Each case study has its own folder. Every project folder contains the Python sou
 
 ### Selected case studies
 
-1. **31 - String-Based Examination Answer Evaluation** — strings, lists, loops, conditions, arithmetic.
-2. **2 - Progressive Electricity Billing** — operators, conditions, loops.
-3. **4 - Employee Payroll and Deduction Analysis** — variables, arithmetic, conditions.
-4. **11 - Examination Result and Grace-Mark Validation** — lists, loops, conditions.
-5. **12 - Attendance Recovery Computation** — arithmetic, loops, conditions.
-6. **13 - ATM Transaction Sequence Simulation** — loops, lists, conditions.
-7. **18 - Fuel Consumption and Route Comparison** — arithmetic, lists, conditions.
-8. **27 - Advanced Numeric Pattern Generator** — nested loops, pattern generation.
-9. **29 - Password Policy Validation Engine** — strings, string methods, conditions.
-10. **49 - Tuple-Based Product Catalogue Audit** — tuples, loops, conditions.
+1. **2 - Progressive Electricity Billing** — operators, conditions, loops.
+2. **4 - Employee Payroll and Deduction Analysis** — variables, arithmetic, conditions.
+3. **11 - Examination Result and Grace-Mark Validation** — lists, loops, conditions.
+4. **12 - Attendance Recovery Computation** — arithmetic, loops, conditions.
+5. **13 - ATM Transaction Sequence Simulation** — loops, lists, conditions.
+6. **18 - Fuel Consumption and Route Comparison** — arithmetic, lists, conditions.
+7. **27 - Advanced Numeric Pattern Generator** — nested loops, pattern generation.
+8. **29 - Password Policy Validation Engine** — strings, string methods, conditions.
+9. **49 - Tuple-Based Product Catalogue Audit** — tuples, loops, conditions.
 
 ## How to run a program
 
