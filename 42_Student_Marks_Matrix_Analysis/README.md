@@ -59,6 +59,9 @@ Run `main.py`; capture the displayed student and subject summaries.
 
 <img width="1105" height="312" alt="image" src="https://github.com/user-attachments/assets/8551076f-ceaf-4d00-b8f6-8d78bb30618b" />
 
+<img width="1106" height="302" alt="image" src="https://github.com/user-attachments/assets/55c0727c-00a1-40e1-8ac5-49e27f82b095" />
+
+
 
 
 
