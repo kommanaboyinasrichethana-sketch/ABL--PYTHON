@@ -63,6 +63,8 @@ END
 
 ## Output screenshot
 Run `main.py` and capture the fare breakdown.
+<img width="1152" height="277" alt="image" src="https://github.com/user-attachments/assets/84645ca6-dc78-4f35-9499-578b1c9609cf" />
+
 
 ## Conclusion
 This program practises input, arithmetic, conditional expressions, and input validation. The rates are illustrative assumptions only.
