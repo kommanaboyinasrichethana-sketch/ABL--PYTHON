@@ -62,5 +62,6 @@ END
 ## Output screenshot
 Run `main.py` and capture the inventory summary.
 
+
 ## Conclusion
 This program uses tuples, tuple unpacking, lists, loops, and conditions for a simple stock audit.
