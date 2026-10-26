@@ -43,7 +43,7 @@ flowchart TD
 BEGIN
 INPUT distance, travel_class, age
 IF distance <= 0 OR age < 0: print invalid input
-ELSE IF class is not sleeper or ac: print invalid class
+EILF class is not sleeper or ac: print invalid class
 ELSE
     choose rate based on class
     base = distance * rate
