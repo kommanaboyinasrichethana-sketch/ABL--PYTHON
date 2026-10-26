@@ -4,9 +4,11 @@
 to analyze the marks of three students in three subjects. This program is calculateing the total marks and average marks of each student, calculate the average marks obtained in each subject, and identify the student who scored the highest total marks. Display all the results clearly using appropriate loops, lists, and conditional statements.
 
 ## Objectives
-- Represent table data with nested lists.
-- Calculate row-wise and column-wise statistics.
-- Find the highest total using list operations.
+1.To calculate the total marks and average marks obtained by each student in three subjects.
+2.To calculate the average marks obtained by all three students in each subject.
+3.To identify the student who scored the highest total marks.
+4.To understand the use of lists, nested lists, for loops, conditional statements, and the append() method in Python.
+5.To display the results clearly using formatted output.
 
 ## Assumptions
 - The example contains 3 students and 3 subjects.
