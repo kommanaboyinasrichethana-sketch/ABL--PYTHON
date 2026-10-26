@@ -73,6 +73,9 @@ Run `main.py` in Python 3 and capture the terminal output.
 
 <img width="1152" height="385" alt="image" src="https://github.com/user-attachments/assets/2a28c29d-83c9-4453-a12c-2b5df12ef0f3" />
 
+<img width="1152" height="387" alt="image" src="https://github.com/user-attachments/assets/c474c0bb-0345-4ff6-a2bc-435a52f7dab2" />
+
+
 
 
 
