@@ -57,6 +57,16 @@ END
 
 ## Output screenshot
 Run `main.py` with size 3 and capture the terminal output.
+<img width="1152" height="242" alt="image" src="https://github.com/user-attachments/assets/10e86da9-4d64-45de-b307-b81e67dd36f7" />
+
+<img width="1152" height="140" alt="image" src="https://github.com/user-attachments/assets/315081a8-79e3-4d8d-a0b0-0b174090baf5" />
+
+<img width="1152" height="172" alt="image" src="https://github.com/user-attachments/assets/9958bed2-67f1-47bd-9a97-c9ae55097cb8" />
+
+
+
+
+
 
 ## Conclusion
 This program demonstrates nested loops, string repetition, conditions, and pattern generation.
