@@ -61,6 +61,8 @@ END
 
 ## Output screenshot
 Run `main.py` and capture the inventory summary.
+<img width="1175" height="262" alt="image" src="https://github.com/user-attachments/assets/efa91a46-6a6b-43be-8a93-8745bcaf95f3" />
+
 
 
 ## Conclusion
