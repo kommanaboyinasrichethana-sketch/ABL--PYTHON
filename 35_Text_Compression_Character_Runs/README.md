@@ -65,6 +65,15 @@ END
 
 ## Output screenshot
 Run `main.py` with `aaaaa` and capture the terminal output.
+<img width="1172" height="265" alt="image" src="https://github.com/user-attachments/assets/c6efc163-4523-4071-9620-bb87dfbf2a8a" />
+
+<img width="1152" height="222" alt="image" src="https://github.com/user-attachments/assets/525b581a-6124-4ada-84ff-07ac3a75b582" />
+
+<img width="1152" height="232" alt="image" src="https://github.com/user-attachments/assets/76a2bab6-27a4-4079-83b3-c0983c673cff" />
+
+
+
+
 
 ## Conclusion
 This program demonstrates string processing, loops, counting, concatenation, and length comparison.
