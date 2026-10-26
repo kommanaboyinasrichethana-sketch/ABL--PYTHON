@@ -63,6 +63,14 @@ END
 
 ## Output screenshot
 Run `main.py` in Python 3 and capture the terminal output for your report.
+<img width="1152" height="222" alt="image" src="https://github.com/user-attachments/assets/754bf5d1-301a-4c63-a4b2-5e2994317b8f" />
+
+<img width="1152" height="222" alt="image" src="https://github.com/user-attachments/assets/5e579bcc-9c82-48fe-a263-1f4fe1624715" />
+
+<img width="1152" height="167" alt="image" src="https://github.com/user-attachments/assets/77372d13-e3ec-441f-be62-b62d3a9be213" />
+
+
+
 
 ## Conclusion
 This program practises variables, arithmetic, validation, conditions, and a while loop.
