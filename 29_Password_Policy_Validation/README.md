@@ -61,6 +61,17 @@ END
 
 ## Output screenshot
 Run `main.py` and capture the terminal output for a valid and invalid password.
+<img width="1147" height="252" alt="image" src="https://github.com/user-attachments/assets/130964c5-d897-4ec0-94b7-992f8372be4c" />
+
+<img width="1150" height="252" alt="image" src="https://github.com/user-attachments/assets/e0136378-65ba-4baf-9a14-6dbc949e120e" />
+
+<img width="1172" height="252" alt="image" src="https://github.com/user-attachments/assets/cbc37bb2-094d-4031-8f2b-5cc61e210fb1" />
+
+
+
+
+
+
 
 ## Conclusion
 This program uses strings, loops, Boolean variables, and conditional statements.
