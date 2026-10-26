@@ -61,6 +61,11 @@ END
 
 ## Output screenshot
 Run `main.py` in Python 3 and capture the terminal output for submission.
+<img width="1152" height="382" alt="image" src="https://github.com/user-attachments/assets/3a3f63ef-5459-4c6b-8ca9-e6d9068a200f" />
+
+<img width="1152" height="337" alt="image" src="https://github.com/user-attachments/assets/d7766d7b-7a4e-47f3-a896-6ff8a6476bb4" />
+
+
 
 ## Conclusion
 This program practises arithmetic, comparisons, conditions, and input validation.
