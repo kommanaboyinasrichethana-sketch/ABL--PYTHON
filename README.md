@@ -7,16 +7,16 @@ First-year engineering Python ABL assignment based on the Unit I–III syllabus.
 Each case study has its own folder. Every project folder contains the Python source code and documentation needed for the assignment.
 
 ### Selected case studies
-
-1. **2 - Progressive Electricity Billing** — operators, conditions, loops.
-2. **4 - Employee Payroll and Deduction Analysis** — variables, arithmetic, conditions.
-3. **11 - Examination Result and Grace-Mark Validation** — lists, loops, conditions.
-4. **12 - Attendance Recovery Computation** — arithmetic, loops, conditions.
-5. **13 - ATM Transaction Sequence Simulation** — loops, lists, conditions.
-6. **18 - Fuel Consumption and Route Comparison** — arithmetic, lists, conditions.
-7. **27 - Advanced Numeric Pattern Generator** — nested loops, pattern generation.
-8. **29 - Password Policy Validation Engine** — strings, string methods, conditions.
-9. **49 - Tuple-Based Product Catalogue Audit** — tuples, loops, conditions.
+1. *Railway Fare Reservation Calculator.
+2. *Manufacturing Cost Profitability.
+3. *Attendance Recovery Computation.
+4. *Fule Consumption Route Comparison.
+5. *Traffic Violation Penalty Calculator.
+6. *Advanced Numeric Pattern Generator.
+7. *Password Policy Validation.
+8. *Text Compression Character Runs.
+9. *Student Marks Matrix Analysis.
+10. *Tuple Product Catalogue Andit.
 
 ## How to run a program
 
