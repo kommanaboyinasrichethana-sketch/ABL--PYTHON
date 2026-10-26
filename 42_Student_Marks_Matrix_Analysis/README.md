@@ -5,9 +5,14 @@ to analyze the marks of three students in three subjects. This program is calcul
 
 ## Objectives
 1.To calculate the total marks and average marks obtained by each student in three subjects.
+
 2.To calculate the average marks obtained by all three students in each subject.
+
 3.To identify the student who scored the highest total marks.
+
 4.To understand the use of lists, nested lists, for loops, conditional statements, and the append() method in Python.
+
+
 5.To display the results clearly using formatted output.
 
 ## Assumptions
