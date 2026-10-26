@@ -26,11 +26,25 @@ to analyze the marks of three students in three subjects. This program is calcul
 8. If two or more students have the same highest total, the program displays the student who appears first in the list.
 
 ## Algorithm
-1. Create a nested list of marks.
-2. For each student row, calculate total and average.
-3. For each subject column, calculate the average.
-4. Find the highest student total.
-5. Display all summaries.
+1. Start the program.
+
+2. Store the marks of three students in three subjects in a list.
+
+3. Create an empty list to store the total marks of each student.
+
+4. Calculate the total marks and average marks of each student.
+
+5.Store each student's total marks in the list and display the total and average.
+
+6. Calculate the average marks of each subject and display the results.
+
+7. Assume the first student is the top student.
+
+8. Compare the total marks of all students to find the highest total.
+
+9. Display the top student's number and highest total marks.
+
+10. Stop the program.
 
 ## Flowchart
 ```mermaid
