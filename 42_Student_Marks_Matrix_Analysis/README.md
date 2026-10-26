@@ -55,6 +55,12 @@ END
 
 ## Output screenshot
 Run `main.py`; capture the displayed student and subject summaries.
+<img width="1105" height="305" alt="image" src="https://github.com/user-attachments/assets/f3a4e4ec-6ebb-4142-b7ae-82bf125e02fe" />
+
+<img width="1105" height="312" alt="image" src="https://github.com/user-attachments/assets/8551076f-ceaf-4d00-b8f6-8d78bb30618b" />
+
+
+
 
 ## Conclusion
 This program practises nested lists, nested loops, arithmetic, and finding maximum values.
