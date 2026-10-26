@@ -69,6 +69,15 @@ END
 
 ## Output screenshot
 Run `main.py` in Python 3 and capture the terminal output.
+<img width="1331" height="392" alt="image" src="https://github.com/user-attachments/assets/8aaa2f66-eba4-47a5-8ab4-408e18883361" />
+
+<img width="1152" height="385" alt="image" src="https://github.com/user-attachments/assets/2a28c29d-83c9-4453-a12c-2b5df12ef0f3" />
+
+
+
+
+
+
 
 ## Conclusion
 This program practises variables, arithmetic operators, input validation, and if-elif-else statements.
