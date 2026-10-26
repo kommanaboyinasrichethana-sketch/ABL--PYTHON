@@ -1,7 +1,7 @@
 # Case Study 42: Student Marks Matrix Analysis
 
 ## Problem statement
-Store marks for multiple students and subjects in a nested list. Calculate student totals and averages, subject averages, and the top student's total.
+to analyze the marks of three students in three subjects. This program is calculateing the total marks and average marks of each student, calculate the average marks obtained in each subject, and identify the student who scored the highest total marks. Display all the results clearly using appropriate loops, lists, and conditional statements.
 
 ## Objectives
 - Represent table data with nested lists.
