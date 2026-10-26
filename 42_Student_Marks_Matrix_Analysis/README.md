@@ -16,9 +16,14 @@ to analyze the marks of three students in three subjects. This program is calcul
 5.To display the results clearly using formatted output.
 
 ## Assumptions
-- The example contains 3 students and 3 subjects.
-- Marks are integers from 0 to 100.
-- If totals tie, the first student with the highest total is selected.
+1. The program considers marks of three students in three subjects.
+2. The marks of each student are already given in the program.
+3. All marks are valid numerical values between 0 and 100.
+4. Each subject carries equal importance while calculating the average marks.
+5. The total marks are calculated by adding the marks obtained in all three subjects.
+6. The average marks are calculated by dividing the total marks by 3.
+7. The student with the highest total marks is considered the top student.
+8. If two or more students have the same highest total, the program displays the student who appears first in the list.
 
 ## Algorithm
 1. Create a nested list of marks.
