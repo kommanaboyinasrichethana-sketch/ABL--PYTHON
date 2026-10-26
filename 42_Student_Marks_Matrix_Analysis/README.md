@@ -46,16 +46,10 @@ to analyze the marks of three students in three subjects. This program is calcul
 
 10. Stop the program.
 
-## Flowchart
-```mermaid
-flowchart TD
- A([Start]) --> B[Create marks nested list]
- B --> C[Loop through students: total and average]
- C --> D[Loop through subjects: average]
- D --> E[Find maximum student total]
- E --> F[Display statistics]
- F --> G([Stop])
-```
+## Flowchat
+
+<img width="1024" height="1536" alt="image" src="https://github.com/user-attachments/assets/cd5d9e1d-cade-4565-aa9a-64ae32065383" />
+
 
 ## Pseudocode
 ```text
