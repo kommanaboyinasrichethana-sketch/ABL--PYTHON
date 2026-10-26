@@ -63,6 +63,14 @@ END
 Run `main.py` in Python 3 and capture the terminal output for submission.
 <img width="1152" height="382" alt="image" src="https://github.com/user-attachments/assets/3a3f63ef-5459-4c6b-8ca9-e6d9068a200f" />
 
+<img width="1200" height="332" alt="image" src="https://github.com/user-attachments/assets/443cbbb1-e9b6-4554-8017-bad1cd6f8a82" />
+
+<img width="1171" height="232" alt="image" src="https://github.com/user-attachments/assets/4306b582-4e0b-4f7d-99c8-49a995d9b8e9" />
+
+
+
+
+
 
 
 
