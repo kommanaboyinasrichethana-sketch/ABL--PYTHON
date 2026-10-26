@@ -52,19 +52,43 @@ to analyze the marks of three students in three subjects. This program is calcul
 
 
 ## Pseudocode
-```text
 BEGIN
-marks = nested list of student marks
-FOR each student row
-    calculate total and average
-    store total
-FOR each subject column
-    add marks for all students
-    calculate and print subject average
-find index of maximum total
-print top student and highest total
+
+    Store marks of 3 students in 3 subjects
+    Create an empty list student_totals
+
+    FOR i = 0 TO 2
+        total = marks[i][0] + marks[i][1] + marks[i][2]
+        average = total / 3
+
+        Add total to student_totals
+
+        DISPLAY student number, total, average
+    END FOR
+
+    FOR j = 0 TO 2
+        subject_total = 0
+
+        FOR i = 0 TO 2
+            subject_total = subject_total + marks[i][j]
+        END FOR
+
+        subject_average = subject_total / 3
+        DISPLAY subject number, subject_average
+    END FOR
+
+    top_index = 0
+
+    FOR i = 0 TO 2
+        IF student_totals[i] > student_totals[top_index] THEN
+            top_index = i
+        END IF
+    END FOR
+
+    DISPLAY top student number (top_index + 1)
+    DISPLAY highest total (student_totals[top_index])
+
 END
-```
 
 ## Test cases
 | Test input / condition | Expected result |
