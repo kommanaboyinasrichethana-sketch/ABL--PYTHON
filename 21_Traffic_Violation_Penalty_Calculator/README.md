@@ -67,6 +67,11 @@ Run `main.py` and capture the terminal output.
 
 <img width="1152" height="195" alt="image" src="https://github.com/user-attachments/assets/b702825c-5a1b-45b1-9018-7eb5fbfc1727" />
 
+<img width="1152" height="227" alt="image" src="https://github.com/user-attachments/assets/31a138af-36ad-4287-9209-0be2557e762b" />
+
+
+
+
 
 ## Conclusion
 This program demonstrates conditions, arithmetic, and input validation using a hypothetical penalty policy. Check current local laws for real fines.
